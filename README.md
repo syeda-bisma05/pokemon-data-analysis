@@ -3,7 +3,7 @@
 Exploratory Data Analysis (EDA) and an interactive dashboard of 801 Pokemon.
 
 ## 🔗 Links
-- **Live Dashboard:** https://YAHAN-APNA-APP-LINK.streamlit.app
+- **Live Dashboard:** https://pokemon-data-analysis-oxarzzgujcrcod4khmrssb.streamlit.app/
 
 ## 📊 About the Project
 This project explores the battle stats of Pokemon to find out which Pokemon are strongest, which types are best, and how stats are related to each other.
